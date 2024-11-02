@@ -1,7 +1,7 @@
 # Theme Gallery
 
-This page showcases the example themes that are included
-inside of the main zellij [repository](https://github.com/zellij-org/zellij/tree/main/example/themes).
+This page showcases the community themes that are included
+inside of the main [Zellij repository](https://github.com/zellij-org/zellij/blob/main/zellij-utils/assets/themes).
 
 
 ### Dracula
